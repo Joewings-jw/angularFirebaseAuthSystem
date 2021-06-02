@@ -16,13 +16,29 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Features
 
 No SQL cloud database
-----------> Sign in with google
-----------> Sign up with username/password
-----------> Sign in with email/password
-----------> Recover forget password
-----------> Send email verification to a new created user
-----------> Protect/secure pages routes using CanActivate guard
-----------> Restrict access of non-authenticated users
-----------> Manage logged in state of firebase user with localstorage
+
+
+Sign in with google
+
+
+Sign up with username/password
+
+
+Sign in with email/password
+
+
+Recover forget password
+
+
+Send email verification to a new created user
+
+
+Protect/secure pages routes using CanActivate guard
+
+
+Restrict access of non-authenticated users
+
+
+Manage logged in state of firebase user with localstorage
 
 
