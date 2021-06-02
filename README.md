@@ -27,7 +27,7 @@ Sign up with username/password
 Sign in with email/password
 
 
-Recover forget password
+Recover forgot password
 
 
 Send email verification to a new created user
